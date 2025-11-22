@@ -44,9 +44,9 @@ For this backtest, those year‑end market caps are used as the starting allocat
 ---
 
 ## 📖 References
-- Joel Greenblatt, *The Big Secret for the Small Investor* (2011) — Chapter 7 explores equal‑weight vs. market‑cap strategies.
-- “The Real Dogs of the Dow” — Study showing deletions from the Dow often outperform additions.
-- Bespoke Investment Group, *S&P Equal Weight vs. Cap Weight* (2024).
+- Joel Greenblatt, *[The Big Secret for the Small Investor](https://amzn.to/4piyNre)* (2011) — Chapter 7 explores equal‑weight vs. market‑cap strategies.
+- “[The Real Dogs of the Dow](https://www.researchgate.net/publication/241642754_The_Real_Dogs_of_the_Dow)” — Study showing deletions from the Dow often outperform additions.
+- Bespoke Investment Group, *[S&P Equal Weight vs. Cap Weight](https://www.bespokepremium.com/interactive/posts/think-big-blog/sp-equal-weight-vs-cap-weight)* (2024).
 - Blog post: [Regression Toward the Mean: Lessons from 35 Years of Portfolio Backtesting](https://complexity-thinking.blogspot.com/2025/11/regression-toward-mean-lessons-from-35.html)
 
 ---
