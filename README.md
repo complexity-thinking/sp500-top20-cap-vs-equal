@@ -3,7 +3,7 @@
 This repository contains the dataset used in the blog post:
 **[Regression Toward the Mean: Lessons from 35 Years of Portfolio Backtesting](https://complexity-thinking.blogspot.com/2025/11/regression-toward-mean-lessons-from-35.html)**
 
-**You can also view the [Tableau Dashboard](https://public.tableau.com/app/profile/complexity.thinking/viz/Cap-WeightedvsEqual-WeightedIndexPerformance/Dashboard-WeightStrategies) for the results.**
+**You can also view the [Tableau Dashboard](https://public.tableau.com/app/profile/complexity.thinking/viz/Cap-WeightedvsEqual-WeightedIndexPerformance/Dashboard-WeightStrategies) for the results. Or view the [Tableau Story](https://public.tableau.com/app/profile/complexity.thinking/viz/Cap-WeightedvsEqual-WeightedIndexPerformance/Story-WeightStrategies) for essential points behind the data.**
 
 The dataset tracks the performance of different S&P 500 weighting strategies from 1990 to end of 2024, highlighting how regression toward the mean shapes long‑term returns and the impact of avoiding major market crashes.
 
